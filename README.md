@@ -20,6 +20,7 @@ To run the game, follow these steps:
 
 ## Gameplay
 
+- You will need to press enter after every line of text
 - The game will prompt you to enter your choice: Rock, Paper, or Scissors.
 - You can enter your choice by typing "rock", "paper", or "scissors" (case-insensitive).
 - After you make your choice, the computer will randomly select its choice.
